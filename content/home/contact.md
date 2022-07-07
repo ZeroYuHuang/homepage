@@ -31,7 +31,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: '[https://twitter.com/Twitter](https://twitter.com/ZeroyuHuang)'
+      link: 'https://twitter.com/ZeroyuHuang'
 
 design:
   columns: '2'
