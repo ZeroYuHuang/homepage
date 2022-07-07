@@ -10,7 +10,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: BeiHang University
+  - name: Beihang University
     url: http://www.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,14 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Beihang University
       year: 2009
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Beihang University
       year: 2008
 
 # Social/Academic Networking
@@ -70,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Zeyu Huang is a master of BeiHang University.
+Zeyu Huang is now a master of Beihang University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
