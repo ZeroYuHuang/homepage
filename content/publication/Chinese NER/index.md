@@ -17,26 +17,26 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: 'April 2022'
+doi: 'https://doi.org/10.1145/3531534'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: ACM Transactions on Asian and Low-Resource Language Information Processing
-publication_short: In *ICW*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Due to the lack of natural delimiters, most Chinese Named Entity Recognition (NER) approaches are character-based and utilize an external lexicon to leverage the word-level information. Although they have achieved promising results, the latent words they introduced are still non-contextualized. In this paper, we investigate three relations, i.e, adjacent relation between characters, character co-occurrence relation between latent words, and dependency relation among tokens, to address this issue. Specifically, we first establish the local context for latent words and then propose a masked self-attention mechanism to incorporate such local contextual information. Besides, since introducing external knowledge such as lexicon and dependency relation inevitably brings in some noises, we propose a gated information controller to handle this problem. Extensive experimental results show that the proposed approach surpasses most similar methods on public datasets and demonstrates its promising potential.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A token relation aware Chinese Named Entity Recgnition Framework.
 
 tags: []
 
@@ -88,4 +88,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
