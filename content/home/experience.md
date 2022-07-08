@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 90
 
 title: Experience
 subtitle:
@@ -33,6 +33,14 @@ experience:
         
         * Mathematical Statistics
         * Software Engineering
+
+  - title: Research Internship
+    company: Parttern Recognition centre of Wechat, Tencent
+    company_url: ''
+    location: Beijing, China
+    date_start: '2021-11-01'
+    date_end: '2022-05-01'
+    description: A Sequential Model Editing (SME) framework for Transformer-based Pretrained Language Model(PLM).
 
   - title: B.S of 
     company: Beihang University
