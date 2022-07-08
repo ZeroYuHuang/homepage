@@ -26,7 +26,7 @@ experience:
     company: Beihang University
     company_url: ''
     location: Beijing, China
-    date_start: '2020-09'
+    date_start: '2020-09-01'
     date_end: ''
     description: |2-
         Major Courses:
@@ -38,8 +38,8 @@ experience:
     company: Beihang University
     company_url: ''
     location: Beijing, China
-    date_start: '2016-09'
-    date_end: '2020-06'
+    date_start: '2016-09-01'
+    date_end: '2020-06-01'
     description: |2-
         Major Courses:
         
