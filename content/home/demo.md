@@ -56,4 +56,4 @@ subtitle = "无所求，必满载而归"
 
 ## 👀Latest News
 
-- We start a new project:  **Is Pretrained Language Model a kind of translation memory?**
+- We start a new project focusing on exploring **Can Pretrained Language Model function as a kind of translation memory?**
