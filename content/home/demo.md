@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Zeyu Huang HomePage"
-subtitle = "无所求，必满载而归"
+subtitle = "无所求，必满载而归。|| Acceptance makes a publication, rejection makes a man."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
