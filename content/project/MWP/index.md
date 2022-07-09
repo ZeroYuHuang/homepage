@@ -1,6 +1,6 @@
 ---
 title: MATHion: Solving Math Word Problems with Logically Consistent Problems
-summary: We propose a Contrastive-based logical retriever to boost Math Word Problem Solver performance
+summary: We propose a Chinese Named Entity Recognition 
 tags:
   - Math Word Problem
   - Contrastive Learning
@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Textual similarity and logical similarity between MWPs.
+  caption: Textual similarity and logical similarity between MWPs
   focal_point: Smart
 
 links:
