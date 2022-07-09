@@ -1,6 +1,6 @@
 ---
-title: Token Relation Aware Chinese Named Entity Recognition
-summary: We propose a Chinese Named Entity Recognition 
+title: MATHion: Solving Math Word Problems with Logically Consistent Problems
+summary: We propose a Contrastive-based logical retriever to boost Math Word Problem Solver performance
 tags:
   - Deep Learning
   - NER
