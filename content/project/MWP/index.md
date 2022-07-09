@@ -1,5 +1,5 @@
 ---
-title: MATHion: Solving Math Word Problems with Logically Consistent Problems
+title: MATHion-Solving Math Word Problems with Logically Consistent Problems
 summary: We propose a Contrastive-based logical retriever to boost Math Word Problem Solver performance
 tags:
   - Deep Learning
