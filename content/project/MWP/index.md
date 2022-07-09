@@ -2,7 +2,6 @@
 title: MATHion: Solving Math Word Problems with Logically Consistent Problems
 summary: We propose a Contrastive-based logical retriever to boost Math Word Problem Solver performance
 tags:
-  - Deep Learning
   - Math Word Problem
   - Contrastive Learning
 date: '2016-04-27T00:00:00Z'
@@ -13,6 +12,7 @@ external_link: ''
 image:
   caption: Textual similarity and logical similarity between MWPs.
   focal_point: Smart
+
 links:
   - icon: twitter
     icon_pack: fab
@@ -97,7 +97,7 @@ This is a paper list for math word problem. It also contains some related resear
 
 We conclude the method and experimental results in this project into an academic paper and submit to ***ACL 2022*** .
 
-However it was rejected with a borderline score (**3/5**) due to the unfair comparison  in experiments.😶
+However, it was rejected with a borderline score (**3/5**) due to the unfair comparison  in experiments.😶
 
 We are now working on ameliorate this project for future submission!
 
