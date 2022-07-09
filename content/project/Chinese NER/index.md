@@ -10,9 +10,8 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Various token-level relation in Chinses 
+  caption: Various token-level relation in Chinese
   focal_point: Smart
-
 
 url_code: ''
 url_pdf: ''
