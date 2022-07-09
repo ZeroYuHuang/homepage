@@ -36,15 +36,12 @@ Solving math word problems (MWPs) is a challenging task. Some existing solvers r
 In this project, we propose MATHion, a contrastive learning-based “retrieve-then-generate” approach, which solves math word problems with logically consistent problems. Compared with previous methods, we employ contrastive learning to train the retriever to mainly focus on the logical consistency instead of textual similarity when extracting similar problems. Besides, we propose a gated initialization and an aligned guidance mechanism, thus the model could regard the solving074
 template of the problem retrieved as hints in each generation step to produce the final expression.
 
-![Model Framework](model.png)
 
 Experimental results show that our method outperforms many strong baselines, including some pre-trained language model-based methods. Further analysis shows that our retrieval method does learn the logical similarity between questions and plays a key role in our model's performance.
 
-![Experimental Results](results.png)
 
 **Case Study**: To illustrate that our retriever does partially see through the narrative description and perceive the intrinsic logic, we give four cases shown in. We observe that the given problems and retrieved problems do not always share similar contexts but the consistent logic. 
 
-![Case Study](case.png)
 
 ### A Paper List for Math Word Problem
 
