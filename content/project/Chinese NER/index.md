@@ -44,3 +44,7 @@ The experimental results on four widely used dataset prove the promising effecti
 
 ![Experimental Results](results.png)
 
+### Latest
+
+We conclude the method and experimental results in this project into an academic paper, and it is submitted in the Transactions on Asian and Low-Resource Language Information Processing.  
+
