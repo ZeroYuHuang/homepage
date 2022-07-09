@@ -1,9 +1,9 @@
 ---
-title: MATHion: Solving Math Word Problems with Logically Consistent Problems
-summary: We propose a Contrastive-based logical retriever to boost Math Word Problem Solver performance
+title: Token Relation Aware Chinese Named Entity Recognition
+summary: We propose a Chinese Named Entity Recognition 
 tags:
-  - Contrastive Learning
-  - Math Word Problem
+  - Deep Learning
+  - NER
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -42,8 +42,6 @@ Experimental results show that our method outperforms many strong baselines, inc
 
 **Case Study**: To illustrate that our retriever does partially see through the narrative description and perceive the intrinsic logic, we give four cases shown in. We observe that the given problems and retrieved problems do not always share similar contexts but the consistent logic. 
 ![Experimental Results](case.png)
-
-
 
 
 
