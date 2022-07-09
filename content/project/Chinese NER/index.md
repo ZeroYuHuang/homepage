@@ -1,6 +1,6 @@
 ---
 title: Token Relation Aware Chinese Named Entity Recognition
-summary: We propose a Chinese Named Entity Recognition 
+summary: We propose a Chinese Named Entity Recognition framework to investigate three kinds of token relation in Chines
 tags:
   - Deep Learning
   - NER
@@ -10,14 +10,14 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Various token-level relation in Chinses 
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+# links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
