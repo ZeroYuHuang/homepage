@@ -38,19 +38,7 @@ Experimental results show that our method outperforms many strong baselines, inc
 **Case Study**: To illustrate that our retriever does partially see through the narrative description and perceive the intrinsic logic, we give four cases shown in. We observe that the given problems and retrieved problems do not always share similar contexts but the consistent logic. 
 ![Experimental Results](case.png)
 
-**A Paper List for Math Word Problem**
 
-This is a paper list for math word problem. It also contains some related research areas, including geometry problem solving.
-
-`Keyword`: Math Word Problem, Geometry Problem, Natural Language Processing
-
-**Latest**
-
-We conclude the method and experimental results in this project into an academic paper and submit to ***ACL 2022*** .
-
-However, it was rejected with a borderline score (**3/5**) due to the unfair comparison  in experiments.😶
-
-We are now working on ameliorate this project for future submission!
 
 
 
