@@ -6,7 +6,7 @@ title: Zeyu Huang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Electronic and Information Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,19 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Deep Learning
+  - Natural Language Processing
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
     - course: MEng in Artificial Intelligence
-      institution: Beihang University
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Beihang University
-      year: 2008
+      institution: ECPKn, Beihang University
+      year: 2020
+    - course: Bachelor of Information and Computing Science
+      institution: ECPKn, Beihang University
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +42,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ZeroyuHuang
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=EWU88_YAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/ZeroYuHuang
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

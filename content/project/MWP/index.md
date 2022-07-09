@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Textual similarity and logical similarity between MWPs.
   focal_point: Smart
 
 url_code: ''

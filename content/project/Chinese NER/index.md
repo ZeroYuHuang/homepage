@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Various token relation in Chinese sentence
   focal_point: Smart
 
 url_code: ''
