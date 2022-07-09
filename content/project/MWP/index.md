@@ -1,9 +1,9 @@
 ---
-title: Token Relation Aware Chinese Named Entity Recognition
-summary: We propose a Chinese Named Entity Recognition 
+title: MATHion: Solving Math Word Problems with Logically Consistent Problems
+summary: We propose a Contrastive-based logical retriever to boost Math Word Problem Solver performance
 tags:
-  - Deep Learning
-  - NER
+  - Contrastive Learning
+  - Math Word Problem
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -13,11 +13,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -42,6 +37,20 @@ Experimental results show that our method outperforms many strong baselines, inc
 
 **Case Study**: To illustrate that our retriever does partially see through the narrative description and perceive the intrinsic logic, we give four cases shown in. We observe that the given problems and retrieved problems do not always share similar contexts but the consistent logic. 
 ![Experimental Results](case.png)
+
+**A Paper List for Math Word Problem**
+
+This is a paper list for math word problem. It also contains some related research areas, including geometry problem solving.
+
+`Keyword`: Math Word Problem, Geometry Problem, Natural Language Processing
+
+**Latest**
+
+We conclude the method and experimental results in this project into an academic paper and submit to ***ACL 2022*** .
+
+However, it was rejected with a borderline score (**3/5**) due to the unfair comparison  in experiments.😶
+
+We are now working on ameliorate this project for future submission!
 
 
 
