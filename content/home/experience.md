@@ -28,7 +28,7 @@ experience:
     location: Beijing, China
     date_start: '2021-11-01'
     date_end: '2022-05-01'
-    description: Working with [Dr.Yikang SHEN](https://scholar.google.com/citations user=qff5rRYAAAAJ&hl=en&oi=ao) and [Prof.Peng Li](http://www.lpeng.net/).
+    description: Working with [Dr.Yikang SHEN] and [Prof.Peng Li].
   
   - title: Research Assistant
     company: State Key Laboratory of Software Development Environment
@@ -36,7 +36,7 @@ experience:
     location: Beijing, China
     date_start: '2021-16-01'
     date_end: '2021-09-01'
-    description: Working with [Prof. Wenge Rong](https://wgrong.github.io/).
+    description: Working with [Prof. Wenge Rong].
 
 design:
   columns: '2'
