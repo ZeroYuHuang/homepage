@@ -25,7 +25,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-*<u>The project is supervised by [Prof. Wenge Rong](https://wgrong.github.io/) of Beihang University.</u>*
 
 Chinese NER is more complicated due to the lack of explicit delimiters between words. Thus, a lot of character-based approaches have been developed. But it still needs to be supplemented with word-level information. To this end, many existing character-based methods first obtain the lattice structure by matching the latent words from an external lexicon and then leverage their information. But there is still some room to improve. 
 

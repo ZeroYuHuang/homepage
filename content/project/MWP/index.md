@@ -81,7 +81,7 @@ Experimental results show that our method outperforms many strong baselines, inc
 
 **Latest**
 
-We conclude the method and experimental results in this project into an academic paper and submit to ***[ACL 2022](https://www.2022.aclweb.org/)*** .
+We conclude the method and experimental results in this project into an academic paper and submit to [[ACL 2022]](https://www.2022.aclweb.org/) .
 
 However, it was rejected with a borderline score (**3/5**) since most reviewers concerned about the unfair comparison issue in experimental setting.😶
 

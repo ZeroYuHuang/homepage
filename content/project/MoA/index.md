@@ -31,7 +31,6 @@ url_video: ''
 
 ![Model Framework](model.png)
 
-
 ![Experimental Results](result.png)
 
 ### Latest
