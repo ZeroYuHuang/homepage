@@ -1,6 +1,6 @@
 ---
 title: Token Relation Aware Chinese Named Entity Recognition
-summary: We propose a Chinese Named Entity Recognition framework to investigate three kinds of token relations.
+summary: We propose a Chinese Named Entity Recognition framework to investigate three kinds of token relations
 tags:
   - Deep Learning
   - Named Entity Recognition
@@ -25,7 +25,6 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
 *<u>The project is supervised by [Prof. Wenge Rong](https://wgrong.github.io/) of Beihang University.</u>*
 
 Chinese NER is more complicated due to the lack of explicit delimiters between words. Thus, a lot of character-based approaches have been developed. But it still needs to be supplemented with word-level information. To this end, many existing character-based methods first obtain the lattice structure by matching the latent words from an external lexicon and then leverage their information. But there is still some room to improve. 
@@ -38,7 +37,7 @@ Therefore, In this project, our goal is to answer the following two questions: (
 
 To these ends, we investigated three relations, i.e, adjacent relations between characters, character co-occurrence relations between latent words, and dependency relations among tokens. Among them, the latter two are helpful when constructing the local context for latent words and all three of them are devoted to strengthening the connections between those strongly related tokens. However, integrating these relations across different levels into the character-based Chinese NER model is challenging. Taking the dependency relation as an example, the previous works that utilize dependency results to enhance their NER model are almost word-level. But the word-based model either requires gold word segmentation results as input or needs to do word segmentation task first, which could cause the error propagation. 
 
-To address this issue, we adopt FLAT's approach for representing the lattice structure and propose a masked attention mechanism to leverage the relationships across different levels. Specifically, the attention score is solely calculated between the tokens connected with the three aforementioned relations. The proposed mechanism could help the model more effectively learn by masking some immaterial tokens and underlining the important ones.
+To address this issue, we adopt FLAT‘s approach for representing the lattice structure and propose a masked attention mechanism to leverage the relationships across different levels. Specifically, the attention score is solely calculated between the tokens connected with the three aforementioned relations. The proposed mechanism could help the model more effectively learn by masking some immaterial tokens and underlining the important ones.
 
 ![Model Framework](model.png)
 
