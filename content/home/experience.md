@@ -22,37 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: M.S of Electronic and Information Engineering
-    company: Beihang University
-    company_url: ''
-    location: Beijing, China
-    date_start: '2020-09-01'
-    date_end: ''
-    description: |2-
-        Major Courses:
-        
-        * Mathematical Statistics
-        * Software Engineering
-
   - title: Research Internship
     company: Parttern Recognition centre of Wechat, Tencent
     company_url: ''
     location: Beijing, China
     date_start: '2021-11-01'
     date_end: '2022-05-01'
-    description: A Sequential Model Editing (SME) framework for Transformer-based Pretrained Language Model(PLM).
-
-  - title: B.S of 
-    company: Beihang University
+    description: Working with [Dr.Yikang SHEN](https://scholar.google.com/citations user=qff5rRYAAAAJ&hl=en&oi=ao) and [Prof.Peng Li](http://www.lpeng.net/).
+  
+  - title: Research Assistant
+    company: State Key Laboratory of Software Development Environment
     company_url: ''
     location: Beijing, China
-    date_start: '2016-09-01'
-    date_end: '2020-06-01'
-    description: |2-
-        Major Courses:
-        
-        * Mathematical Statistics
-        * Software Engineering
+    date_start: '2021-16-01'
+    date_end: '2021-09-01'
+    description: Working with [Prof. Wenge Rong](https://wgrong.github.io/).
+
 design:
   columns: '2'
 ---
