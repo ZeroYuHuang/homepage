@@ -14,22 +14,21 @@ organizations:
     url: http://www.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests mainly include Deep Learning and Natural Language Processing.
 
 # Interests to show in About widget
 interests:
   - Deep Learning
   - Natural Language Processing
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: ECPKn, Beihang University
+    - course: Master in Electrical Information Engineering
+      institution: Beihang University
       year: 2020
-    - course: Bachelor of Information and Computing Science
-      institution: ECPKn, Beihang University
+    - course: Bachelor in Information and Computing Science
+      institution: Beihang University
       year: 2016
 
 # Social/Academic Networking
@@ -64,6 +63,8 @@ email: ''
 highlight_name: true
 ---
 
-Zeyu Huang is now a master of Beihang University.
+Hi! I'm Zeyu Huang (黄泽宇 in Chinese). I am now a graduate student in Beihang University, co-supervised by [Prof.Zhang Xiong](http://scse.buaa.edu.cn/info/1078/2637.htm) and [Prof. Wenge Rong](https://wgrong.github.io/). I received my BSc of Information and Computing Science from Beihang University in 2020. Currently, I am looking for professor willing to receive me as PhD student.  Please email me if you have interests.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research interests lies at the intersection of Deep Learning and Natural Language Processing.  Presently, since Large-scale Pretrained Language Models has boosted AI's performance in both NLP and CV, I am working on ***Editing***  and ***Mining***  diverse knowledge from them and enabling the practical application of them to be more convenient.
+
+{{< icon name="download" pack="fas" >}} This is my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
