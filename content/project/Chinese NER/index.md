@@ -26,7 +26,11 @@ url_video: ''
 # slides: example
 ---
 
-Chinese NER is more complicated due to the lack of explicit delimiters between words. Thus a lot of character-based approaches have been developed. But it still needs to be supplemented with word-level information. To this end, many existing character-based methods first obtain the lattice structure by matching the latent words from an external lexicon and then leverage their information. But there is still some room to improve. 
+[^The project is supervised by Prof. Wenge Rong]: 
+
+[https://wgrong.github.io/]: 
+
+Chinese NER is more complicated due to the lack of explicit delimiters between words. Thus, a lot of character-based approaches have been developed. But it still needs to be supplemented with word-level information. To this end, many existing character-based methods first obtain the lattice structure by matching the latent words from an external lexicon and then leverage their information. But there is still some room to improve. 
 
 First, in most previous works, the latent word embedding is still non-local contextualized (the same word in different contexts shares the same representation), whereas the comprehension of Chinese words heavily depends on its local context.  Besides, the main dynamic word embedding such as BERT are token-level (character for Chinese) and are not suitable for encoding latent words, which induces the contextualization of latent word embedding a challenging task. 
 
