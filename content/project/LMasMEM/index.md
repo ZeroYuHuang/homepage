@@ -1,11 +1,11 @@
 ---
-title: Mixture of Attention Heads, Selecting Attention Heads Per Token
-summary: We formally propose a new task named Sequential Model Editing Problem and propose a possible solution named T-Patcher
+title: Can Pretrained Language Model function as Translation Memory? (Work in progress) 
+summary: We investigate the possibility 
 tags:
-  - Conditional Computation
   - Machine Translation
-  - Mixture of Expert
-date: '2022-01-27T00:00:00Z'
+  - Pretrained Language Model
+  - Prompt Learning
+date: '2022-07-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -27,14 +27,8 @@ url_video: ''
 # slides: example
 
 ---
-
-
-![Model Framework](model.png)
-
-![Experimental Results](result.png)
+This is a project **in progress**.
 
 ### Latest
 
-We conclude the method and experimental results in this project into an academic paper, and submit it to EMNLP 2022.
-
-Good luck to us.
+After surveying the relevant areas, we are now developing 

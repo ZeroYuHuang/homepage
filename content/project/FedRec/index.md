@@ -1,11 +1,11 @@
 ---
-title: Mixture of Attention Heads, Selecting Attention Heads Per Token
+title: Federated Learning based Recommendation System
 summary: We formally propose a new task named Sequential Model Editing Problem and propose a possible solution named T-Patcher
 tags:
-  - Conditional Computation
-  - Machine Translation
-  - Mixture of Expert
-date: '2022-01-27T00:00:00Z'
+  - Federated Learning
+  - Recommendation System
+  - Deepl Learning
+date: '2021-01-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,12 +29,5 @@ url_video: ''
 ---
 
 
-![Model Framework](model.png)
-
-![Experimental Results](result.png)
-
 ### Latest
 
-We conclude the method and experimental results in this project into an academic paper, and submit it to EMNLP 2022.
-
-Good luck to us.
