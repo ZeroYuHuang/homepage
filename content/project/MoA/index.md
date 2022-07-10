@@ -1,5 +1,5 @@
 ---
-title: Mixture of Attention Heads: Selecting Attention Heads Per Token
+title: Mixture of Attention Heads-Selecting Attention Heads Per Token
 summary: We formally propose a new task named Sequential Model Editing Problem and propose a possible solution named T-Patcher
 tags:
   - Conditional Computation
