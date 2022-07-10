@@ -23,6 +23,14 @@ interests:
   - Pretrained Language Model
 
 # Education to show in About widget
+education:
+  courses:
+    - course: Master in Electrical Information Engineering
+      institution: Beihang University
+      year: 2020
+    - course: Bachelor in Information and Computing Science
+      institution: Beihang University
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

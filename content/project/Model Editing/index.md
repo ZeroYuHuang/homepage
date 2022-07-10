@@ -1,5 +1,5 @@
 ---
-title: Sequential Model Editing Problem of Transformer based Pretrained Language Model
+title: Sequential Model Editing for Transformer based Model
 summary: We propose a new task named Sequential Model Editing and a model editor named T-Patcher
 tags:
   - Sequential Model Editing
