@@ -38,13 +38,7 @@ Experimental results show that our method outperforms many strong baselines, inc
 **Case Study**: To illustrate that our retriever does partially see through the narrative description and perceive the intrinsic logic, we give four cases shown in. We observe that the given problems and retrieved problems do not always share similar contexts but the consistent logic. 
 ![Experimental Results](case.png)
 
-### A Paper List for Math Word Problem
-
-This is a paper list for math word problem. It also contains some related research areas, including geometry problem solving.
-
-`Keyword`: Math Word Problem, Geometry Problem, Natural Language Processing
-
-### Dataset
+**Dataset**
 
 * Deep Neural Solver for Math Word Problems, EMNLP2017, [[paper]](https://aclanthology.org/D17-1088.pdf)
   * Math23k, include 23161 problems. (Chinese)
@@ -53,7 +47,7 @@ This is a paper list for math word problem. It also contains some related resear
 * A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers, ACL2020, [[paper]](https://arxiv.org/pdf/2106.15772.pdf) [[code]](https://github.com/chaochun/nlu-asdiv-dataset)
   * ASDiv, cover more text patterns, include 2305 problems. (English)
 
-### Math Word Problem Solvers
+**Math Word Problem Solvers**
 
 * Recall and Learn: A Memory-augmented Solver for Math Word Problems, EMNLP2021 Findings,  [[paper]](https://aclanthology.org/2021.findings-emnlp.68.pdf) [[code]](https://github.com/sfeng-m/REAL4MWP) 
 * Improving Math Word Problems with Pre-trained Knowledge and Hierarchical Reasoning, EMNLP2021, [[paper]](https://aclanthology.org/2021.emnlp-main.272.pdf)
@@ -85,11 +79,11 @@ This is a paper list for math word problem. It also contains some related resear
 * Investigating Math Word Problems using Pretrained Multilingual Language Models, arxiv-2021, [[paper]](https://arxiv.org/pdf/2105.08928.pdf)
 * MWPToolkit- An Open-source Framework for Deep Learning-based Math Word Problem Solvers, arxiv-2021, [[paper]](https://arxiv.org/pdf/2109.00799.pdf) [[code]](https://github.com/LYH-YF/MWPToolkit)
 
-### Latest
+**Latest**
 
-We conclude the method and experimental results in this project into an academic paper and submit to ***ACL 2022*** .
+We conclude the method and experimental results in this project into an academic paper and submit to ***[ACL 2022](https://www.2022.aclweb.org/)*** .
 
-However, it was rejected with a borderline score (**3/5**) due to the unfair comparison  in experiments.😶
+However, it was rejected with a borderline score (**3/5**) since most reviewers concerned about the unfair comparison issue in experimental setting.😶
 
 We are now working on ameliorate this project for future submission!
 
