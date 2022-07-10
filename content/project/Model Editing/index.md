@@ -36,7 +36,7 @@ For each editing, the post-edit model should satisfy: 1) Reliability: make the d
 
 ![Model Framework](model.png)
 
-Experimental results on Fect-checking and Closed-book Question Answering show that most existing one-step editors had trouble making effective edits in the SME setting . Fine-tuning-based methods make the model vulnerable to forgetting previous edits. HyperNetwork-based editors strongly coupled with the original parameters, thus failing to edit the model after several steps.
+Experimental results on Fact-checking and Closed-book Question Answering show that most existing one-step editors had trouble making effective edits in the SME setting . Fine-tuning-based methods make the model vulnerable to forgetting previous edits. HyperNetwork-based editors strongly coupled with the original parameters, thus failing to edit the model after several steps.
 
 We introduced **Transformer-Patcher (T-Patcher)**. Unlike previous methods, Transformer-Patcher retains all original parameters to prevent harming the model's overall performance. It only adds a handful of trainable neurons (patches) in the last Feed-Forward Network (FFN) layer to revise the model's behavior on the problematic input and achieve a low editing cost. Furthermore, we propose an activation loss and a memory loss for training the patch to respond to specific inputs only. Experimental results on fact-checking and question answering indicated that Transformer-Patcher could rectify a series of mistakes (up to thousands) while almost perfectly retaining the model's behavior on irrelevant inputs.
 
