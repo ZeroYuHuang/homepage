@@ -25,6 +25,10 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
 
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
+
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'

@@ -4,7 +4,7 @@ summary: We propose a Chinese Named Entity Recognition framework to investigate 
 tags:
   - Deep Learning
   - Named Entity Recognition
-date: '2016-04-27T00:00:00Z'
+date: '2020-09-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
